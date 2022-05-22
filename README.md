@@ -1,2 +1,2 @@
 # krekefbi
-sc hsil rikod
+SC HASIL RIKOD
